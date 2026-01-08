@@ -1,0 +1,2015 @@
+0:00:01.079,0:00:10.559
+Xin chào à xin chào Little Life. Hello
+Little Life. À hôm nay tôi sẽ ờ
+
+0:00:10.559,0:00:18.720
+quay video để mà nói về cách tôi đã làm
+bài à bài phỏng vấn test thế nào. Today
+
+0:00:18.720,0:00:27.439
+I will introduce about how I
+do the challenge
+
+0:00:27.439,0:00:32.279
+à interviews. À
+
+0:00:34.079,0:00:43.000
+đầu tiên là à em đã đọc qua cái a tài
+liệu này. Thực ra là mình gửi từ 8:30
+
+0:00:43.000,0:00:49.239
+nên là em 9:30 thì em đã mở lên đọc. Và
+em cũng hỏi là có thể giải thích bằng
+
+0:00:49.239,0:00:54.920
+tiếng Việt được không? Bởi vì nó sẽ khá
+chu chảy hơn. Nhưng mà bên mình thì
+
+0:00:54.920,0:01:00.079
+thích tiếng Anh nên là em nghĩ là em sẽ
+nói kiểu song ngữ để nói tiếng Việt
+
+0:01:00.079,0:01:04.400
+trước một cách mượt, sau đó thì dịch ra
+bằng tiếng Anh.
+
+0:01:04.400,0:01:10.720
+So today
+you guys sending me emails
+
+0:01:10.720,0:01:27.119
+about 8 30 o but I open email
+and read read this challenge about 930.
+
+0:01:27.119,0:01:37.399
+So I first of all I I ask about
+can I can I record this video explain
+
+0:01:37.399,0:01:45.840
+just in Vietnames because I will speak
+more fluent and smotter that you prefer
+
+0:01:45.840,0:01:55.119
+English. So I think I will
+have bow à have dual language to
+
+0:01:55.119,0:02:00.759
+translate make it clear
+for me.
+
+0:02:00.759,0:02:06.000
+So hope you c understand.
+
+0:02:06.039,0:02:11.800
+Thì đầu tiên là em thấy là có ba phần.
+Phần này nói về
+
+0:02:11.800,0:02:16.599
+đầu tiên là về cách giải quyết vấn đề
+đúng không ạ? À
+
+0:02:16.599,0:02:22.560
+và 8:30 sáng đã có thông báo về cái việc
+là
+
+0:02:22.560,0:02:30.680
+cái monitor đã hiển thị các thông tin
+liên quan đến độ trễ về phản hồi API và
+
+0:02:30.680,0:02:39.280
+connection thì bị quá tải. Xong rồi. À
+tỉ lệ er rate của cái API này tận 23% mà
+
+0:02:39.280,0:02:47.840
+thường là chỉ dưới 1%. Và và có trường
+còn phản ánh lại là app bị treo đúng
+
+0:02:47.840,0:02:55.040
+không ạ? Khi mà khi mà kiểu à đây gọi là
+điểm danh.
+
+0:02:55.040,0:03:00.400
+So in the morning
+
+0:03:01.720,0:03:07.319
+monitor show that là
+respond is very delay
+
+0:03:07.319,0:03:15.000
+and datab connection is po and error is
+very high and some school are reporting
+
+0:03:15.000,0:03:20.599
+that is crashing or freezing
+
+0:03:21.000,0:03:29.879
+during the chicking attention.
+À s thì ở đây là em thấy là có cập nhật
+
+0:03:29.879,0:03:36.760
+mới cập nhật gần đây đó là thêm tính
+năng về kiểu chck kingh là kiểu theo dõi
+
+0:03:36.760,0:03:44.760
+về về vụ điểm danh và
+tiếp theo là thông báo tuần trước thì
+
+0:03:44.760,0:03:51.840
+thông báo thời theo thời gian thực cho
+phụ huynh đấy và database đang
+
+0:03:51.840,0:04:00.079
+khá là tăng trong khoảng thời gian vừa
+qua đấy. So I see that yesterday we just
+
+0:04:00.079,0:04:09.959
+deploy new attention checking. So make
+it can make more cry or
+
+0:04:09.959,0:04:20.120
+some addition feature in current feature
+last week that we have retime parent
+
+0:04:20.120,0:04:26.280
+notification.
+So it's just another addition feature to
+
+0:04:26.280,0:04:29.280
+this
+
+0:04:29.520,0:04:35.960
+core feature. So I think will make some
+delay
+
+0:04:35.960,0:04:41.880
+and then database increase in past
+month. So
+
+0:04:41.880,0:04:51.080
+we I think this is about the scale of
+data. So make
+
+0:04:51.080,0:04:55.800
+the current query more slower.
+
+0:04:57.880,0:05:03.000
+Thì
+giả thiết của bạn về vấn đề cốc lõi là
+
+0:05:03.000,0:05:09.280
+gì? À
+và cái log là mình sẽ kiểm tra đầu tiên
+
+0:05:09.280,0:05:15.880
+cái việc là mình sẽ gọi ai đúng không ạ?
+Và tại sao thì đầu tiên là mình đầu tiên
+
+0:05:15.880,0:05:20.400
+là em sẽ
+như em vừa nói thì gốc dễ vấn đề ở đây
+
+0:05:20.400,0:05:24.759
+nếu mà try vấn đột nhiên lâu thì chắc
+chắn là thường liên quan đến việc là
+
+0:05:24.759,0:05:28.840
+tính năng mới cập nhật đúng không ạ? Nếu
+mà đây là đột nhiên lâu đúng không ạ?
+
+0:05:28.840,0:05:34.240
+mới hôm qua cập nhật tính năng mới hay
+gì đó. Đấy, xong rồi à tỉ lệ câu truy
+
+0:05:34.240,0:05:38.960
+vấn lên cao các thứ các thứ thì em sẽ
+điều tra dần về
+
+0:05:38.960,0:05:45.360
+đầu tiên mở cái đoạn đoạn
+bởi vì cái này đã xác định
+
+0:05:45.360,0:05:48.680
+nếu mà tính năng mới này thì mình xác
+định được luôn là tính có thể tính năng
+
+0:05:48.680,0:05:53.440
+mới là gây ra mình sẽ vào cái phần điểm
+danh để kiểm tra luôn. Đấy, sau đó thì
+
+0:05:53.440,0:05:59.759
+mình sẽ
+ờ đầu tiên là mình vào kiểm tra luôn.
+
+0:05:59.759,0:06:04.479
+Sau đó thì mình sẽ biết được mình dựa
+theo lịch sử git để mình biết được là ai
+
+0:06:04.479,0:06:08.800
+là người mới đẩy đoạn này lên để mà bảo
+check cùng với mình để theo dõi. Đấy,
+
+0:06:08.800,0:06:12.360
+sau đó thì mình vẫn sẽ tiếp tục điều
+tra.
+
+0:06:12.360,0:06:20.319
+thì mình cách để tái hiện lại thì thường
+là sẽ là thực ra là mình có thể đọc code
+
+0:06:20.319,0:06:24.720
+ra đoạn code này khá là ngắn để mình có
+thể à nhìn một phát hình dung được luôn.
+
+0:06:24.720,0:06:28.599
+Nhưng mà còn nếu mà vấn đề lớn hơn thì
+thường là mình sẽ chạy đoạn code này kèm
+
+0:06:28.599,0:06:35.360
+theo kiểu monitor. Ví dụ là bên mình
+dùng PP thì có thể dùng các monitor
+
+0:06:35.360,0:06:40.080
+giống như là nếu mà dùng Lel chẳng hạn
+đúng không ạ? thì dùng monitor của Lal T
+
+0:06:40.080,0:06:45.840
+scope hoặc là clockwork để mà mình biết
+được là
+
+0:06:45.840,0:06:50.080
+à tốc độ xử lý của mỗi cái tốc độ có bao
+nhiêu câu truy vấn rồi vân vân đúng
+
+0:06:50.080,0:06:58.000
+không ạ. So
+the first I will I will do that
+
+0:06:58.000,0:07:03.599
+I I will
+see the reason change in git. So
+
+0:07:03.599,0:07:12.400
+yesterday just deploy new
+thing new feature. So I think if if this
+
+0:07:12.400,0:07:17.440
+this monitor just notice this morning
+not
+
+0:07:17.440,0:07:25.800
+over the the week. So I think this
+maybe this feature
+
+0:07:26.039,0:07:35.440
+will will cause the the problem. So I
+will check that first and when I do when
+
+0:07:35.440,0:07:41.199
+I see
+see the git that
+
+0:07:41.199,0:07:50.280
+who have responsible about this code I
+will call him but I will also
+
+0:07:50.280,0:07:54.400
+pair pair program
+
+0:07:54.520,0:08:02.599
+see how I can fix so this code
+So I think I will see the problem right
+
+0:08:02.599,0:08:10.720
+away but
+if it's more complicated on production
+
+0:08:10.720,0:08:20.599
+on job production so I think I must
+run that on my local and if if it
+
+0:08:20.599,0:08:27.479
+you are using PB and maybe framework
+like Lal I will
+
+0:08:27.479,0:08:31.240
+use
+package like
+
+0:08:31.240,0:08:38.159
+telescope or
+clockwork to see the how many query and
+
+0:08:38.159,0:08:45.519
+how long is
+how long is take and some and total cost
+
+0:08:45.519,0:08:51.240
+and total à response time.
+
+0:08:51.760,0:08:56.000
+Khi mà em nhìn vào đây thì em thấy luôn
+vấn đề đó là N + 1 câ truy vấn. Bởi vì ở
+
+0:08:56.000,0:09:02.839
+đây ví dụ đây là truy vấn a à học sinh
+đúng không ạ? Xong rồi truy vấn tiếp là
+
+0:09:02.839,0:09:09.519
+trường này, xong rồi cập nhật này, xong
+rồi truy vấn à phụ huynh, sau đó thì à
+
+0:09:09.519,0:09:17.320
+lại truy vấn tiếp là đếm tổng số điểm
+danh ngày hôm nay rồi cập nhật. Đấy thì
+
+0:09:17.320,0:09:22.680
+ở đây thấy vấn đề ngay đó là truy vấn
+rất nhiều kết hợp việc là có truy vấn
+
+0:09:22.680,0:09:29.640
+thừa à kết hợp với việc là
+thường là không nên truy vấn từng học
+
+0:09:29.640,0:09:35.560
+sinh như thế này. Xong rồi đã thế là
+nghĩa là bản chất bản chất khi mà
+
+0:09:35.560,0:09:41.640
+một cái luồng tính năng hoạt động đó là
+phải đi từ đi từ cha rồi đến con. Còn
+
+0:09:41.640,0:09:46.440
+đây là lại đang đi từ con rồi đến cha.
+Tất cả từ cái nhỏ nhất cho đến cái lớn
+
+0:09:46.440,0:09:50.279
+nhất. Ví dụ là học sinh xong rồi đến
+trường xong đến phụ huynh nghĩa là mình
+
+0:09:50.279,0:09:54.519
+đang đi ngược nên thành ra mình bị nặng.
+Đấy chuẩn là mình sẽ phải đi bài toán
+
+0:09:54.519,0:09:59.959
+xuôi. Thế nên là em nghĩ là đầu tiên là
+em nghĩ hot fix trước thì rõ ràng là để
+
+0:09:59.959,0:10:06.640
+liên quan việc là khách hàng đang báo là
+đang bị delay nên là mình sẽ cần
+
+0:10:06.640,0:10:10.519
+phản hồi nhanh nhất cho khách hàng chứ
+còn những cái liên quan đến sửa về câu
+
+0:10:10.519,0:10:17.000
+truy vấn thì sẽ có thể làm sai thì gây
+lỗi gây bấc luôn là coi như là sẽ chết
+
+0:10:17.000,0:10:22.680
+luôn thì không nên là mình sẽ đầu tiên
+là những cái gì mình đẩy được vào chó
+
+0:10:22.680,0:10:27.200
+thì mình sẽ xử lý luôn bởi vì nó không
+sửa gì về logic mà chỉ gần như là mình
+
+0:10:27.200,0:10:32.120
+chỉ đẩy code được cái này sang khác. Thì
+ví dụ là cái thông báo thì mình hiện tại
+
+0:10:32.120,0:10:36.240
+thì đang bắt người dùng có thể nhìn đoạn
+này có thể đang bắt người dùng phải đợi
+
+0:10:36.240,0:10:40.560
+việc thông báo xong thì mới được thì
+mình sẽ đẩy vào job đẩy vào que để nó xử
+
+0:10:40.560,0:10:47.160
+lý kiểu xử lý tuần tự từ từ. Cái này
+không quan trọng. Đây không tính năng
+
+0:10:47.160,0:10:50.360
+chính là tính năng điểm danh, không phải
+tính năng về thông báo hay tính năng cập
+
+0:10:50.360,0:10:55.320
+nhật gì đó này. Và thứ hai đó là cái
+tính năng cập nhật này là đang phải lấy
+
+0:10:55.320,0:11:02.240
+ra dữ liệu ra xong rồi cập nhật vào. Th
+không nên. Mình sẽ mình có thể với SQL
+
+0:11:02.240,0:11:07.279
+thì mình có thể dùng cái hàm là
+increment là mình sẽ kiểu tự động tăng
+
+0:11:07.279,0:11:14.240
+nó luôn. Nên là mình sẽ mình sẽ kiểu tự
+động tăng dần.
+
+0:11:14.519,0:11:21.680
+tự động tăng dần cái a đấy thì em ở đây
+em có thực ra là em có dùng ai nhưng mà
+
+0:11:21.680,0:11:25.120
+em biết được luồng hoạt động rồi đầu
+tiên em còn dùng ai để phân tích ra cái
+
+0:11:25.120,0:11:29.519
+bản này kết hợp việc tạo bản tiếng Việt
+để cho dễ đọc đã tránh việc mình hiểu
+
+0:11:29.519,0:11:34.399
+sai vấn đề
+đấy xong rồi em đã nghĩ ra tất cả các
+
+0:11:34.399,0:11:40.079
+giải pháp trước rồi đấy tuy là nói ở đây
+nhưng mà em đã nghĩ ra bởi vì là mình là
+
+0:11:40.079,0:11:44.399
+công ty về product em làm công ty
+Product phải em từng làm về chính hệ
+
+0:11:44.399,0:11:49.600
+thống quản lý cho nhà trường điểm danh
+nên là em sẽ biết được là mình sẽ phải
+
+0:11:49.600,0:11:55.519
+sửa dần dần.
+À quên em nói tiếng Anh nữa. So first of
+
+0:11:55.519,0:12:02.399
+all I think I will see the problem right
+away about this
+
+0:12:02.399,0:12:11.839
+normally that a function you will go
+from the root to the
+
+0:12:11.839,0:12:19.279
+to the le is about you will go from
+school to to parent to child or maybe
+
+0:12:19.279,0:12:31.839
+school to try to parent to not like
+try to try to parent or school because
+
+0:12:33.279,0:12:38.959
+it's
+I don't know that word but I think
+
+0:12:38.959,0:12:48.000
+reverse is not good
+not good flows you will go from the root
+
+0:12:48.000,0:12:54.320
+to the bottom
+so the the problem is about the query
+
+0:12:54.320,0:13:03.920
+but the main problem problem we must fix
+right away is about the delay à so i
+
+0:13:03.920,0:13:12.040
+think the notification or update
+update start that is not the core
+
+0:13:12.040,0:13:19.519
+function here the core function here is
+about attention so
+
+0:13:19.519,0:13:22.360
+so we
+
+0:13:23.440,0:13:31.240
+We will move this notification
+to job to
+
+0:13:31.560,0:13:39.560
+send notification later is
+not one
+
+0:13:39.560,0:13:45.399
+not need to
+notif notification
+
+0:13:45.399,0:13:53.000
+right away so and more problem about
+query is have two query but we don't
+
+0:13:53.000,0:13:59.759
+need that we will use increment function
+in
+
+0:13:59.759,0:14:07.720
+SQL to to increase more
+today attention C
+
+0:14:07.720,0:14:19.480
+so I use AI I is is to first I use AI to
+summary and translate it for to English
+
+0:14:19.480,0:14:27.759
+And I also use it to make a flow answer,
+but I don't I don't see it first because
+
+0:14:27.759,0:14:36.040
+I I see the code and see the detail and
+I can answer that right here.
+
+0:14:36.040,0:14:43.880
+We are we are produ product company so I
+think make
+
+0:14:43.880,0:14:54.040
+a lot we don't fix all right away we
+make hot fix like like I just said we
+
+0:14:54.040,0:15:02.399
+have version two just you agreement to
+make two query to one query
+
+0:15:02.399,0:15:09.519
+and we make this notification
+notification to job so
+
+0:15:09.519,0:15:17.320
+don't have to as a client don't have to
+wait while doing this
+
+0:15:17.320,0:15:21.320
+đấy thì đầu tiên là em có version 1 như
+này code nó sẽ trông như này đúng không
+
+0:15:21.320,0:15:26.000
+ạ đây là em có từ bên kia ra đúng không
+ạ xong rồi version 2 thì nó sẽ như này
+
+0:15:26.000,0:15:32.440
+rất đơn giản là mình có một chop này
+increment xong mình sẽ đã giải quyết
+
+0:15:32.440,0:15:37.880
+được tương đối là về hiệu suất. Bởi vì
+cái này đơn giản tuy là nó vẫn có nhiều
+
+0:15:37.880,0:15:41.880
+truy vấn nhưng thực ra là nó đều truy
+vấn rất là ngắn và rất rất là nhanh. Bởi
+
+0:15:41.880,0:15:46.800
+vì tìm cái khóa chính xong rồi xếp thì
+mọi thứ đều rất nhanh đấy nên là nó
+
+0:15:46.800,0:15:53.360
+không giải quyết được vấn đề của khách
+luôn rồi. Còn về công ty Product thì
+
+0:15:53.360,0:15:58.480
+mình phải ưu luôn ưu tiên khách trước.
+Còn những cái kiểu bởi vì khách sẽ luôn
+
+0:15:58.480,0:16:02.360
+nhìn thấy cái đấy đầu tiên khách không
+quan tâm việc mình feedback hay mọi thứ
+
+0:16:02.360,0:16:06.959
+như thế nào đúng không ạ? Đấy.
+
+0:16:07.480,0:16:17.199
+In version two, I just like I said
+we just move notification to job to kill
+
+0:16:17.199,0:16:23.880
+to make it
+do something later we don't have to wait
+
+0:16:23.880,0:16:31.720
+that and we will transform
+select and update to just increment
+
+0:16:31.720,0:16:40.399
+increment in HQL will increase that we
+don't we don't have to select it to know
+
+0:16:40.399,0:16:48.759
+what what C is I we don't need this.
+À
+
+0:16:48.759,0:16:54.360
+đấy. Tiếp theo là
+tiếp theo là mình sẽ có bản thứ ba vì là
+
+0:16:54.360,0:16:59.880
+như mình đã nói là mình đang bị n + 1 có
+truy vấn ở đây là mình đang kiểu
+
+0:16:59.880,0:17:05.000
+select tận khá nhiều lần và cứ mỗi một
+học sinh là mình lại phải lấy lại thông
+
+0:17:05.000,0:17:10.280
+tin trường. Đấy là một cái nó lặp điệp
+lại cho một trường rồi đúng không ạ? Bởi
+
+0:17:10.280,0:17:13.319
+vì mình khi mình điểm danh mình sẽ điểm
+danh theo trường chứ mình không điểm
+
+0:17:13.319,0:17:19.760
+danh một học sinh riêng tay. Đấy và đã
+thế còn lấy toàn bộ học sinh với mỗi cái
+
+0:17:19.760,0:17:26.559
+thay vì mình lấy toàn bộ parent ID xong
+rồi lấy các thứ đúng không ạ? đấy là về
+
+0:17:26.559,0:17:34.240
+cái n cng n cng 1 câu truy vấn thì em sẽ
+có phiên bản ở đây đó là mình sẽ lấy
+
+0:17:34.240,0:17:38.320
+theo ID này lấy theo school lấy parent
+đương nhiên là school vẫn đang lặp lại
+
+0:17:38.320,0:17:41.880
+bởi vì có thể là rất nhiều học sinh cùng
+một trường chữa đúng không ạ thì cái này
+
+0:17:41.880,0:17:46.120
+vẫn đang gặp lại. Ok, mình sẽ xử lý cái
+này xong. Đấy, đầu tiên là mình xử lý
+
+0:17:46.120,0:17:50.280
+được n cộng một câu truy vấn đã. Và khi
+mình xử lý lần lượt từng bước từng bước
+
+0:17:50.280,0:17:54.799
+như này thì mình rất dễ phải robot nếu
+mà có vấn đề lỗi gì xảy ra đúng không ạ?
+
+0:17:54.799,0:18:01.720
+Tránh về việc là mình cập nhật hết của
+mỗi lúc thì một là một là thì mình có
+
+0:18:01.720,0:18:05.280
+thể đẩy hết cùng một lúc cũng được. Thứ
+nhất là nó lại tốn thời gian về mình
+
+0:18:05.280,0:18:10.880
+phải sửa nhiều. cái việc là
+nếu có nếu vấn đề xảy ra thì mình lại
+
+0:18:10.880,0:18:15.000
+roll back lại thì nó lại quay lại chậm
+đúng không ạ? mà vấn đề chưa giải quyết
+
+0:18:15.000,0:18:23.520
+nên là mình sẽ phải update từng version
+đấy. So in version 3 is that we just
+
+0:18:23.520,0:18:30.840
+prevent
+eagle lading prevent yeah and we we
+
+0:18:30.840,0:18:39.400
+summary that query to justice so we have
+a lot of vision because I don't want to
+
+0:18:39.400,0:18:45.760
+we don't want to if something wrong we
+roll back just
+
+0:18:45.760,0:18:53.840
+previous version not all the work we
+have fix because
+
+0:18:54.000,0:19:02.280
+because ex we just have two option one
+delay or one just and do nothing and one
+
+0:19:02.280,0:19:12.320
+have problem so we must have a lot of
+vision to fix à slow b careful
+
+0:19:12.320,0:19:17.480
+thì em có đề xuất cả phương án bốn đó là
+thay đổi cơ chế điểm danh bởi vì Vì là
+
+0:19:17.480,0:19:21.080
+như em đã nói là không có chuyện điểm
+danh cho một học sinh mà mình sẽ điểm
+
+0:19:21.080,0:19:26.000
+danh cho cả một lớp cũng cùng lúc mình
+sẽ đẩy lên cái mạc của danh sách sinh
+
+0:19:26.000,0:19:30.240
+viên sau đó thì mình sẽ truy vấn theo
+cái danh sách đấy kèm với phụ huynh các
+
+0:19:30.240,0:19:35.320
+thứ. Thì cái này nó đôi khi liên quan cả
+nên thành ra là nó sẽ ở version 4 thì sẽ
+
+0:19:35.320,0:19:42.240
+có thể làm sau. Bởi vì về cơ bản thì đến
+cái version 3 này là đã kiểu đã xử lý
+
+0:19:42.240,0:19:47.000
+được về khách hàng, khách hàng trải
+nghiệm có thể sẽ mượt hơn rồi. Nên là
+
+0:19:47.000,0:19:50.600
+cái này có nhiều cái truy vấn nhưng mà
+nhiều đến mấy chăng nữa thì cũng bán là
+
+0:19:50.600,0:19:56.840
+DB mình có thể bị treo một tí thôi chứ
+không làm quá bị delay.
+
+0:19:56.840,0:20:01.919
+Đây thì
+mình sẽ có thời gian để làm version 4 và
+
+0:20:01.919,0:20:09.880
+mình test lại cẩn thận. Đấy bao gồm làm
+cả fend s đây đây version 4
+
+0:20:09.880,0:20:15.520
+đây mình sẽ đẩy lên đấy mình chỉ cần
+truy vấn school đúng một lần sau đó kèm
+
+0:20:15.520,0:20:21.679
+theo danh sách ID của học sinh sau đó
+kèm theo phụ huynh đấy thì sau đó thì
+
+0:20:21.679,0:20:28.440
+mình sẽ đẩy cái mảng phụ huynh đấy vào
+vào trong cái
+
+0:20:28.440,0:20:34.480
+vào trong cái thông báo. Thông báo này
+cũng sẽ thông báo nhiều mình sẽ kiểu mặc
+
+0:20:34.480,0:20:41.039
+đấy. Rồi à increase các thứ đúng không
+ạ? Incree cũng chỉ thực ra là ừ incre
+
+0:20:41.039,0:20:45.640
+theo cao nó cũng sẽ rất là nhanh.
+Cái này nó sẽ khắc phục luôn cả cái việc
+
+0:20:45.640,0:20:50.520
+là mình có bao nhiêu học sinh mình phải
+increase bấy nhiêu
+
+0:20:50.520,0:20:57.080
+bởi kiểu chạy bấy nhiêu câu increase nó
+bị nặng câu update đúng không ạ? Đấy
+
+0:20:57.080,0:21:01.000
+nã mình sẽ incre inc incre incre
+increase theo trường đúng không ạ? Theo
+
+0:21:01.000,0:21:05.159
+trường là một lần mình sẽ tăng bao nhiêu
+học sinh.
+
+0:21:05.159,0:21:10.520
+Hôm nay đã điểm dành bao nhiêu học sinh.
+Đấy khá nói chung là cái này làm cho tội
+
+0:21:10.520,0:21:16.000
+giảm đi rất nhiều câu truy vấn đúng
+không ạ? So we have I suggest that we
+
+0:21:16.000,0:21:23.320
+have can have version four because
+I said before that we must
+
+0:21:23.320,0:21:30.360
+go flow that
+from root to the bottom. So we don't
+
+0:21:30.360,0:21:39.360
+à check in on every student or every
+child. We must when we do the check
+
+0:21:39.360,0:21:44.679
+checkin we do all. So
+
+0:21:44.919,0:21:50.279
+all from school or all from class
+something else so
+
+0:21:50.279,0:22:02.600
+and we we have ban attendant
+so we just one query to
+
+0:22:02.600,0:22:08.679
+select all of that
+ch ids
+
+0:22:08.679,0:22:16.520
+we will invis
+version we must have time. So we just
+
+0:22:16.520,0:22:25.080
+fix à or we need to fix to make it no
+more delay for the client. So we have
+
+0:22:25.080,0:22:29.080
+time to
+à
+
+0:22:29.080,0:22:35.159
+see is improvement
+and make change
+
+0:22:35.159,0:22:44.039
+from back front end to back end and
+we send all notification one we don't
+
+0:22:44.039,0:22:51.840
+have to select that anymore and we à
+when every try we make
+
+0:22:51.840,0:22:57.440
+update increment we just increase
+just one
+
+0:22:57.440,0:23:03.960
+to the school so more efficiency.
+
+0:23:08.159,0:23:14.000
+So that is
+that is
+
+0:23:14.000,0:23:22.559
+challenge one. I also have à đây em nói
+thê việ trước ờ thì đây là cách em giải
+
+0:23:22.559,0:23:28.679
+quyết ở vấn đề thứ nhất nhưng mà thực ra
+là cái này nó cũng đều có ưu và nhược
+
+0:23:28.679,0:23:33.279
+thứ nhất là nhược là gì thứ nhất là với
+best practice của job thì thực ra là
+
+0:23:33.279,0:23:40.640
+mình không không có chuyện select xong
+rồi mình truyền vào con job dữ liệu kiểu
+
+0:23:40.640,0:23:44.760
+một cái mảng hay một cái collection hay
+một cái kiểu một cái dữ liệu lớn như này
+
+0:23:44.760,0:23:50.080
+vào trong một con job được nó cũng có
+tải và nó không tốt bởi vì là database
+
+0:23:50.080,0:23:54.080
+có thể thay đổi hay vân vân gì đó thường
+là mình sẽ ch truyền vào tính sách ID
+
+0:23:54.080,0:23:59.679
+sau đó mình sẽ truy vấn ở trong đấy đấy
+web back tích nhất đấy
+
+0:23:59.679,0:24:07.240
+à tiếp theo là cái vụ à đếm này như thực
+tế vừa rồi em đang nói thì nó là đương
+
+0:24:07.240,0:24:13.360
+nhiên từ version 3 là đang vì mình cứ up
+increment nghĩa là mình update lần lượt
+
+0:24:13.360,0:24:18.400
+theo từng học học sinh thì mình đã tối
+ưu hơn là cập nhật mỗi khi mà mình
+
+0:24:18.400,0:24:22.919
+truyền lên một mảng học sinh lớn đúng
+không ạ để cập nhật cho trường nhưng
+
+0:24:22.919,0:24:27.320
+tính ra thì bây giờ có rất nhiều trường
+thì nó vẫn tốn bấy nhiêu câu và thậm chí
+
+0:24:27.320,0:24:31.799
+là mình có điểm danh nhiều lần hay gì gì
+đó thì nó lại cập nhật lại thì không
+
+0:24:31.799,0:24:38.279
+tốt. Thì cách tốt hơn ở đây đó là thường
+là có thể là nếu mình muốn tối ưu hơn là
+
+0:24:38.279,0:24:42.720
+mình sẽ lưu lại vào trong cách giống như
+là cách mà YouTube hồi trước cũng từng
+
+0:24:42.720,0:24:48.000
+làm. Đó là mình sẽ cứ cập nhật increment
+vào trong cách sau đó thì đến cuối ngày
+
+0:24:48.000,0:24:51.480
+hoặc là bởi vì cái này là cái kiểu về
+thống kê thì các bạn mình không cần cập
+
+0:24:51.480,0:24:56.000
+nhật luôn mình chỉ cần quan tâm là ngày
+hôm sau hoặc là khoảng th khoảng thời
+
+0:24:56.000,0:25:02.919
+gian nào đó mình xem thì mình sẽ
+mình sẽ biết được là à kiểu tổng thống
+
+0:25:02.919,0:25:06.279
+kê
+đã điểm danh ngày hôm nay chưa vân vân
+
+0:25:06.279,0:25:12.279
+đúng không ạ? thì mình sẽ mình sẽ cập
+nhật mình sẽ có một con k một con cron
+
+0:25:12.279,0:25:17.240
+job chạy để cứ đến một khoảng thời gian
+nhất định mình sẽ cập nhật từ cách vào
+
+0:25:17.240,0:25:21.000
+trong database. Nghĩa là chỉ cần một câu
+truy vấn là mình sẽ cập nhật xong. Đương
+
+0:25:21.000,0:25:25.399
+nhiên nó sẽ có ưu nhược về khoảng cứ mỗi
+lần mình tối ưu thế là sẽ có lúc là mình
+
+0:25:25.399,0:25:30.960
+thay đổi dữ liệu rồi thì mình chưa cầm
+nhận hay là mình tố đấy giống như vừa
+
+0:25:30.960,0:25:35.240
+nãy em nói là thay đổi dữ liệu rồi giả
+sử xóa children children hoặc parent not
+
+0:25:35.240,0:25:40.320
+file mà mình truyền từ đây vào trong cái
+notification nó thể gây lỗi nói chung là
+
+0:25:40.320,0:25:46.240
+nóấy bài toán đánh đổi đúng không ạ so
+
+0:25:47.600,0:25:56.640
+I have some something to tell about the
+this last version so
+
+0:25:56.640,0:26:05.360
+it make more efficiency but it have some
+risk that when you try to
+
+0:26:05.360,0:26:13.760
+all the data so and
+it to the job is not very best practice
+
+0:26:13.760,0:26:18.120
+the best practice here is you
+
+0:26:19.200,0:26:28.440
+You must just pass ID. So in Job you
+must quabase
+
+0:26:31.640,0:26:40.880
+so are not just data because it may be
+all data. So
+
+0:26:40.880,0:26:48.559
+maybe the child or the school or the
+parent have been deleted or change will
+
+0:26:48.559,0:26:51.559
+make
+
+0:26:52.360,0:27:00.600
+will make the notification is not
+run a
+
+0:27:00.600,0:27:03.600
+à
+
+0:27:03.760,0:27:08.640
+I think is
+it will run
+
+0:27:08.640,0:27:13.760
+and here
+we can
+
+0:27:13.760,0:27:17.840
+we can make this
+
+0:27:20.039,0:27:26.039
+is better
+we can use cake so
+
+0:27:26.039,0:27:29.520
+here
+I
+
+0:27:29.520,0:27:40.960
+about the static so not we don't we
+don't have to update this every time we
+
+0:27:40.960,0:27:48.480
+just want to update this
+daily once
+
+0:27:48.480,0:27:57.480
+one time
+in in in day so we can run the job to to
+
+0:27:57.480,0:28:04.320
+to
+à get formake and update to database
+
+0:28:04.320,0:28:09.799
+so just one but
+it's
+
+0:28:09.799,0:28:18.360
+about balance between
+effect effective efficiency to
+
+0:28:18.360,0:28:22.039
+consistency
+and valid
+
+0:28:22.039,0:28:29.320
+valid data because
+some data is old and sometimes the data
+
+0:28:29.320,0:28:37.880
+is changed we
+à we must take that cris
+
+0:28:40.559,0:28:47.600
+so
+the part two à phần hai về à về kiểu
+
+0:28:47.600,0:28:52.360
+quyết định của
+kiểu gọi là
+
+0:28:52.360,0:28:58.679
+tách L đúng không ạ? Team L
+thì ở đây em đọc đó là đang có 5000
+
+0:28:58.679,0:29:01.679
+trường
+
+0:29:04.720,0:29:11.799
+và quý 3 này
+à đâu 500 trường Indo quý 3 và nó sẽ
+
+0:29:11.799,0:29:18.080
+tăng và nó
+bây giờ chuẩn bị tăng gấp 10 lần hiệu
+
+0:29:18.080,0:29:23.640
+suất đúng không ạ?
+Đấy mà hiện tại đang có rất nhiều rồi
+
+0:29:23.640,0:29:30.120
+vân vân đúng không ạ? Đấy thì bài toán ở
+đây đó là
+
+0:29:31.200,0:29:37.399
+bài toán ở đây đó là đánh giá các kiểu
+phân loại theo cái nào là quan trọng
+
+0:29:37.399,0:29:42.559
+nhất đúng không ạ? Và lý do tại sao đấy
+thì em ở đây vẫn có dịch ra và em thấy
+
+0:29:42.559,0:29:47.799
+là đây để em dịch lại xem em hiểu đúng
+không ạ. Đúng là database đang bị botton
+
+0:29:47.799,0:29:54.240
+next nghĩa là tắt nút cổ trai là gấp 10
+lần câu truy vấn này. à dụng điện thoại
+
+0:29:54.240,0:30:02.320
+đang bị sập nghĩa là kiểu bị không kiểu
+không dùng được tăng lên à
+
+0:30:02.320,0:30:07.360
+kiểu với thời gian với cập nhật theo
+thời gian thực đấy nên nói chung là nó
+
+0:30:07.360,0:30:14.679
+bị sập khi mà liên quan đến cái tính
+năng cập nhật các thứ và cái a
+
+0:30:14.679,0:30:22.559
+bộ nhớ PP thì thường hay chạm đến điểm à
+kiểu đỉnh đấy. Và tiếp theo là cái chi
+
+0:30:22.559,0:30:27.320
+phí của Amazon hạ tầng thì đang kiểu
+không ổn định đúng không ạ? Rồi tiếp
+
+0:30:27.320,0:30:34.039
+theo là cái việc độ trễ giữa các khu vực
+đang ảnh hưởng đến trải nghiệm của khách
+
+0:30:34.039,0:30:38.720
+hàng ở Indo. Đấy thì
+
+0:30:38.919,0:30:43.880
+ờ thì cái đầu tiên ưu tiên nhất của công
+ty Product theo em hiểu thì đó là mình
+
+0:30:43.880,0:30:49.640
+phải luôn hướng đến khách hàng. Bởi
+không khách hàng thì mình
+
+0:30:49.640,0:30:54.679
+không khách hàng thì mình cũng đi đúng
+không ạ? Đấy. Thế nên là cái này là cái
+
+0:30:54.679,0:30:59.919
+quan trọng đầu tiên nó trải nghiệm cái
+này lu trải nghiệm khách hàng thì mình
+
+0:30:59.919,0:31:06.039
+sẽ phải đặt mức ưu tiên cao nhất. Sau đó
+thì tiếp theo là liên quan đến có thể là
+
+0:31:06.039,0:31:11.200
+một cái này là database. Bởi vì database
+database thì đúng là nó ảnh hưởng đến
+
+0:31:11.200,0:31:15.480
+ngay trải nghiệm khách hàng.
+Bởi vì database mà treo thì thì đúng là
+
+0:31:15.480,0:31:21.799
+chẳng có gì hoạt động cả. Đấy. Và cái
+này là liên quan đến a
+
+0:31:21.799,0:31:28.360
+à appỉnh thoảng à bị sập đúng không ạ?
+Thì thường là một là mình phải kiểm tra
+
+0:31:28.360,0:31:34.120
+lại là như em cái bài thứ nhất là mình
+sẽ kiểu ưu tiên cái nào trước c những
+
+0:31:34.120,0:31:39.039
+cái tính năng chính thì vẫn sẽ như nào
+đấy nhưng cái này là cần phải giả soát
+
+0:31:39.039,0:31:43.000
+lại thì cái đầu tiên mình cần làm là
+mình có thể rate limit lại nó đã để
+
+0:31:43.000,0:31:47.720
+tránh việc là nó retime nhiều có nhiều
+cái là mình không cần phải xử lý retime
+
+0:31:47.720,0:31:53.919
+mình xử lý kiểu gọi là cho delay một tí
+cũng được và nếu mà bị nhiều quá thì đôi
+
+0:31:53.919,0:31:58.039
+khi là bị spam thì mình sẽ nói chung là
+rate limit nó sẽ giải quyết được cái
+
+0:31:58.039,0:32:01.720
+việc này.
+Đấy thì em nghĩ là hai cái này sẽ ưu
+
+0:32:01.720,0:32:07.120
+tiên. Có thể là nếu mà em thì em sẽ ưu
+tiên mức hai rồi ba cái này hoặc là hai
+
+0:32:07.120,0:32:11.200
+cái này hoặc ba này cũng được. Thì em
+thấy là nó đều ảnh hưởng đến liên quan
+
+0:32:11.200,0:32:14.760
+đến trải nghiệm nguy dụng. Mình vẫn bài
+kim chỉ nam mình vẫn là trải nghiệm
+
+0:32:14.760,0:32:19.039
+người dùng bởi người dùng quan trọng
+nhất. Tiếp theo là
+
+0:32:19.039,0:32:24.559
+cái này thì đúng là ảnh hưởng đến có thể
+nó sẽ làm đấy quá tải cái gì gì đó. Thực
+
+0:32:24.559,0:32:28.919
+ra là mình cách làm mình cái đầu tiên
+mình có thể làm nó chỉ đơn giản là là
+
+0:32:28.919,0:32:33.159
+mình tăng bộ nhớ lên mình có thể tốn
+tiền hơn nhưng mà mình sẽ tăng bộ nhớ
+
+0:32:33.159,0:32:37.639
+lên để giải quyết được đã. Bởi vì rõ
+ràng mình tăng khách hàng thì cũng tăng
+
+0:32:37.639,0:32:41.960
+được cái nguồn thu rồi nên là mình có
+thể làm được cái giải quyết này giải
+
+0:32:41.960,0:32:46.799
+quyết nhanh được. Rồi mình có thời gian
+thì mình sẽ đi vào để kiểm tra xem vấn
+
+0:32:46.799,0:32:54.320
+đề nằm ở đâu. Thường là liên quan đến xử
+lý nghìn đến triệu cái cùng lúc đấy.
+
+0:32:54.320,0:32:59.279
+Triệu cầu truy vấn cùng lúc hồi trước ví
+dụ em làm cái vụ import data chịu bản
+
+0:32:59.279,0:33:06.000
+khi của SQL à của Excel thì thường là nó
+sẽ đúng là tăng cái memory limit lên thì
+
+0:33:06.000,0:33:10.559
+mình sẽ giải phóng dung lượng bằng cách
+nhiều cách đúng không ạ? Và cuối cùng là
+
+0:33:10.559,0:33:15.600
+chi phí hạ tầng các thứ thứ này thì rõ
+ràng cái này thì thì như em nói nó giống
+
+0:33:15.600,0:33:20.039
+cái trên này nó là cái này mình sẽ xử lý
+sau mình không phải là mức độ ưu tiên vì
+
+0:33:20.039,0:33:23.960
+rõ ràng là mình đang tăng khách và có
+khách đang dùng là mình là mình đang có
+
+0:33:23.960,0:33:28.960
+nguồn thua rồi có thể mình đang lãi rồi
+đấy đúng không ạ thì mình
+
+0:33:28.960,0:33:33.399
+có thể cân nhắc cái này sau vì nếu mà
+mình cứ tập trung vào việc tiết kiệm các
+
+0:33:33.399,0:33:37.840
+thứ các thứ thì khách đi thậm chí là có
+lượng khách đến này nó sẽ không thể dùng
+
+0:33:37.840,0:33:46.639
+được thì sẽ mất khách. So I just
+translate all in Vietnames
+
+0:33:46.639,0:33:56.279
+by how I understand the problem. So the
+à So I run that the first highest is
+
+0:33:56.279,0:34:06.000
+about growth region latency effect. So
+we are product company so we must focus
+
+0:34:06.000,0:34:12.720
+about the the customer the experience.
+So I don't So we don't want to lose a
+
+0:34:12.720,0:34:16.639
+customer because
+
+0:34:16.720,0:34:20.240
+that
+à
+
+0:34:20.240,0:34:27.399
+in Vietnamese we have
+something that customer eat got
+
+0:34:27.399,0:34:36.240
+so we must focus on them. So we don't
+have one we
+
+0:34:36.240,0:34:42.879
+don't want to effect all customer. We
+have
+
+0:34:43.240,0:34:49.399
+2000 school
+so we don't have to affect exams.
+
+0:34:49.399,0:34:59.920
+Maybe we will have a server on
+local region in ID to
+
+0:34:59.920,0:35:08.560
+make them have better
+transition
+
+0:35:08.560,0:35:12.119
+and smoother
+
+0:35:12.320,0:35:22.079
+but à I have à
+tourist is equal because one data
+
+0:35:22.079,0:35:25.079
+database
+
+0:35:25.240,0:35:33.680
+become botonic so it's
+it will affect everything when database
+
+0:35:33.680,0:35:43.240
+scratch or just delay so I think the
+database very important but also the app
+
+0:35:43.240,0:35:50.440
+cash is
+not very good experience for customer
+
+0:35:50.440,0:35:54.440
+because
+I think
+
+0:35:54.440,0:36:05.319
+the customer use mobile app so
+and database cannot fix right away so
+
+0:36:05.319,0:36:12.920
+we will
+update great limit for mobile ad because
+
+0:36:12.920,0:36:22.480
+some some update is not very when à we
+need to retime update. We just
+
+0:36:22.480,0:36:27.040
+customer can
+wait
+
+0:36:27.040,0:36:33.800
+one or two second
+is not very bad.
+
+0:36:33.800,0:36:39.880
+They just don't want to crash every time
+they use it. So
+
+0:36:39.880,0:36:45.960
+I think
+maybe database is number two and mobile
+
+0:36:45.960,0:36:52.839
+app is number three. But the mobile app
+fix is very easy
+
+0:36:52.839,0:36:57.760
+and we will do research later.
+
+0:36:58.240,0:37:03.680
+PB memory limit
+we
+
+0:37:03.680,0:37:11.520
+we are facing that we will have a lot
+new customer so we must increase the
+
+0:37:11.520,0:37:16.680
+memory by
+spending money
+
+0:37:16.680,0:37:23.680
+or increase the
+and the à
+
+0:37:23.680,0:37:27.319
+the server isord
+
+0:37:30.880,0:37:41.280
+I still make profit from that and
+it's very very easy to fix first hot fit
+
+0:37:41.280,0:37:48.839
+first so we will have time to research
+and
+
+0:37:48.839,0:37:57.640
+attention ler and also the Amazon
+service cost
+
+0:37:57.640,0:38:06.920
+we will have a lot of customer so we
+and we are
+
+0:38:06.920,0:38:15.359
+app that have lot of customer so we make
+them feel that we are
+
+0:38:15.359,0:38:25.319
+very strong and very reliable
+application so we don't we don't make
+
+0:38:25.480,0:38:35.119
+have to wait or delay and we because we
+have a lot customer I think we will have
+
+0:38:35.119,0:38:41.200
+a lot of
+financial so
+
+0:38:41.200,0:38:49.359
+the cost we can handle that we don't
+we are not the startup because the
+
+0:38:49.359,0:38:54.000
+startup
+they
+
+0:38:55.240,0:39:02.920
+about the cost a lot because they don't
+have a lot money so they will make it
+
+0:39:02.920,0:39:10.359
+more higher about higher risk about cost
+but we are
+
+0:39:10.359,0:39:17.040
+we are large company so we don't need to
+think that
+
+0:39:17.040,0:39:19.280
+priority
+
+0:39:22.920,0:39:27.359
+Ờ tiếp theo là
+
+0:39:28.800,0:39:34.560
+ở đây em thấy đề cập là
+đầu tiên có ba phương án là mình cần
+
+0:39:34.560,0:39:40.040
+phải làm đúng không ạ? Làm một là sửa
+các vấn đề liên quan đến hiệu năng. Hiệu
+
+0:39:40.040,0:39:44.960
+suất nghĩa là tốc độ xử lý chậm. Đấy em
+đang hiểu nhá đúng không ạ? À phải cần
+
+0:39:44.960,0:39:49.960
+cả một đội à toàn bộ đội, toàn bộ đội ở
+đây em đang không thấy con số em cứ đặt
+
+0:39:49.960,0:39:55.760
+giả sử bài toán là sáu người đi đúng
+không ạ? Tiếp theo là làm tính năng cho
+
+0:39:55.760,0:40:02.359
+bên Indo mà chỉ phù hợp với bên Indo
+thôi và mất bốn người tận ba tuần. Xong
+
+0:40:02.359,0:40:08.839
+rồi. Đây là thêm cái vụ theo dõi monitor
+và thậm chí cảnh báo thông báo khi có
+
+0:40:08.839,0:40:14.319
+vấn đề về hệ thống mất một tuần hai
+người thì CEO thì muốn làm tất cả trong
+
+0:40:14.319,0:40:18.000
+vòng hai tuần. Thì rõ ràng đây nghe bài
+toán lúc đầu là không thể đúng không ạ?
+
+0:40:18.000,0:40:22.000
+Thì cái nào mình ưu tiên hơn tại sao
+mình giải thích với CEO thế nào và nói
+
+0:40:22.000,0:40:26.960
+với à thành viên các thành viên như thế
+nào?
+
+0:40:26.960,0:40:32.599
+Thì à bài toán ở đây em thấy đầu tiên
+thì chắc chắn là không thể làm hết được
+
+0:40:32.599,0:40:38.040
+cùng lúc thì và vì nói chuyện với CEO
+nữa cái việc là em cũng từng làm tuy em
+
+0:40:38.040,0:40:41.200
+không làm techlist nhưng mà em làm công
+ty Product thì em biết được cái vấn đề ở
+
+0:40:41.200,0:40:45.400
+đây đó là mình phải luôn thể hiện được
+là mình có làm chứ không phải sau hai
+
+0:40:45.400,0:40:49.280
+tuần là mình chỉ làm một tính năng hay
+gì đó đưa ra ba đầu việc nhưng mình làm
+
+0:40:49.280,0:40:53.280
+mới chỉ xong một đầu việc là không nên
+là chắc chắn là em sẽ không đâm đơ vào
+
+0:40:53.280,0:41:00.800
+cái toàn bộ dồn người vào phương án B
+hay là toàn bộ người vào phương án A.
+
+0:41:00.800,0:41:06.520
+Đấy thì em sẽ thường là em sẽ làm em
+nghĩ là làm song song sẽ là bốn giả sử
+
+0:41:06.520,0:41:11.760
+là team có sáu người đúng không ạ? Bốn
+người ở B và Hạ và hai người ở C. Vì
+
+0:41:11.760,0:41:17.760
+theo em một cái dự án đang vốn đang chạy
+thì hoặc là thậm chí là đang sắp cho một
+
+0:41:17.760,0:41:22.839
+lượng tệp khách hàng rất là lớn thì cái
+đầu tiên mình cần làm là làm một cái a
+
+0:41:22.839,0:41:27.960
+một cái bản để mà theo dõi đúng không ạ?
+để nếu có vấn đề bấc gì xảy ra trên thì
+
+0:41:27.960,0:41:33.599
+mình sẽ xem được luôn để tránh việc là
+vì ở đây cái này liên quan hệ suất là có
+
+0:41:33.599,0:41:38.400
+thể là bị chậm hay gì đó khách hàng có
+thể đợi được còn hơn là nó không chạy
+
+0:41:38.400,0:41:43.640
+đúng không ạ thì rõ ràng là có b thì đôi
+khi khách hàng sẽ phản hồi mình nhưng
+
+0:41:43.640,0:41:48.760
+đôi khi khách sẽ đi luôn khách không
+phản hồi gì cả vì thấy là phần mềm đểu
+
+0:41:48.760,0:41:53.280
+không dùng được không tán tin cận họ sẽ
+đi nên thành ra là mình sẽ phải ưu tiên
+
+0:41:53.280,0:41:59.000
+cái c Thì lúc đấy là em thì sau một tuần
+đúng không ạ? Sau một tuần là hai người
+
+0:41:59.000,0:42:04.760
+đã làm xong thì hai người này sẽ quay ra
+sửa những cái vấn đề liên quan đến về
+
+0:42:04.760,0:42:09.040
+hiệu năng. Thì rõ ràng là hiệu vấn đề
+hiệu năng có rất nhiều thì đương nhiên
+
+0:42:09.040,0:42:14.119
+là hai người không đủ nhưng mà và vấn đề
+hiệu năng sẽ luôn có ở trên sản phẩm
+
+0:42:14.119,0:42:17.960
+production trừ khi mình không phát triển
+đến tính năng mới và thỉnh thoảng
+
+0:42:17.960,0:42:22.960
+database mà scale thì thực ra nó vẫn
+sinh vấn đề thì cái vấn đề hiệu năng
+
+0:42:22.960,0:42:28.720
+luôn luôn có đấy nên là hai người sàng
+hai người thì đương nhiên là cũng sẽ fix
+
+0:42:28.720,0:42:35.920
+được một cách tương đối gì đó trong vòng
+một tuần đấy còn à về tính năng này thì
+
+0:42:35.920,0:42:39.599
+bốn người đang làm thì sau hai tuần
+đương nhiên vẫn chưa xong nhưng hai tuần
+
+0:42:39.599,0:42:44.000
+em khẳng định là sẽ xong được bản demo
+để mà nói được với khách hàng là tôi đã
+
+0:42:44.000,0:42:51.960
+có như thế này đấy tránh việc là mình
+dồn sang option a hay option c xong rồi
+
+0:42:51.960,0:42:56.440
+hai tuần sau hai tuần khách hàng hỏi thì
+mình lại bảo mình chưa làm gì cả thì
+
+0:42:56.440,0:43:04.720
+khách sẽ đi. Đấy, đấy là cách mà em sẽ
+làm và anh sẽ nói chuyện với CEO. So,
+
+0:43:05.640,0:43:09.720
+à thì em sẽ nói chuyện CEO kiểu thế để
+nó tính bài toán về rồi ro các thứ đúng
+
+0:43:09.720,0:43:18.440
+không ạ? So I will priority and tell the
+reason and how to communicate this two
+
+0:43:18.440,0:43:26.800
+CEO. So we have to
+we obvious see that we can done we
+
+0:43:26.800,0:43:32.960
+cannot done
+thing in two weeks because we are the
+
+0:43:32.960,0:43:36.240
+team is
+
+0:43:36.440,0:43:44.920
+à the team have
+option to must fix all this in two weeks
+
+0:43:44.920,0:43:51.760
+and
+must have all in high team. So
+
+0:43:51.760,0:43:58.920
+in in case that we don't h anym person
+because
+
+0:43:59.760,0:44:07.480
+we don't we don't we cannot h
+more person
+
+0:44:07.480,0:44:13.240
+and make make make them that
+
+0:44:13.440,0:44:19.760
+joy join our team and do all the work
+and understand all the thing we
+
+0:44:27.440,0:44:32.800
+We must
+do something we
+
+0:44:32.800,0:44:39.160
+make
+see that we have process but we cannot
+
+0:44:39.160,0:44:47.760
+done all the thing so
+I don't priority the option one option
+
+0:44:47.760,0:44:59.359
+I are priority option three are C and
+B and C first so
+
+0:44:59.359,0:45:06.119
+it just take two à and I
+
+0:45:06.839,0:45:14.520
+and in example
+in this case I think in team maybe six
+
+0:45:14.520,0:45:22.559
+person So
+we we will use that resource in option B
+
+0:45:22.559,0:45:32.160
+and C. So just one week two person will
+make all done monitor and alerting. So
+
+0:45:32.160,0:45:39.119
+monitor and alerting is very important
+to product company because the when the
+
+0:45:39.119,0:45:43.359
+customer have problem
+they
+
+0:45:43.359,0:45:48.480
+may contact us or maybe not. They just
+don't
+
+0:45:48.480,0:45:53.720
+leave us anymore because the app grass
+and delay or something else. So they
+
+0:45:53.720,0:45:59.720
+just left they just leave they don't
+want earth anymore. So we don't want
+
+0:45:59.720,0:46:07.319
+that. So I think the monitor and system
+is very important to the the product
+
+0:46:07.319,0:46:15.640
+company
+and when that two person dog in the two
+
+0:46:15.640,0:46:23.640
+week they will go to the option a to fix
+performance the product company have a
+
+0:46:23.640,0:46:30.559
+lot of
+performance issue because it are the
+
+0:46:30.559,0:46:38.800
+more scale and
+the problem about the performance
+
+0:46:38.800,0:46:46.359
+we have a lot when we have a new feature
+like the example
+
+0:46:46.359,0:46:52.760
+above so
+two person will
+
+0:46:52.760,0:47:00.160
+fix
+in one week maybe some some problem
+
+0:47:00.160,0:47:03.359
+I think
+
+0:47:04.160,0:47:15.400
+some boy some val boy. So
+so the new feature we four person cannot
+
+0:47:15.400,0:47:20.599
+done that in
+two weeks. But but
+
+0:47:20.599,0:47:26.960
+I think two week is enough for the demo.
+So we can show it for the customer and
+
+0:47:26.960,0:47:36.200
+the CEO. So CC that we have process so I
+think it's very clear that we have done
+
+0:47:36.200,0:47:45.000
+all three option but in
+resort Q h and have still have
+
+0:47:45.000,0:47:48.000
+efficiency.
+
+0:47:48.640,0:47:52.880
+Còn về nói với thành viên thì em nghĩ là
+cũng sẽ trình bày tương đương như thế
+
+0:47:52.880,0:48:00.240
+với mỗi đội để biết được chứ em nghĩ là
+không tránh việc hay là
+
+0:48:00.240,0:48:05.040
+à mình không thể nhét toàn bộ cả team
+vào làm dự án kiểu này để hy vọng nó
+
+0:48:05.040,0:48:10.480
+song sớm được. Bởi vì như em nói thì
+tính năng C cũng quan trọng, tính năng A
+
+0:48:10.480,0:48:15.280
+thì ra là nó quan trọng phần nào. Nhưng
+mà ám chỉ là nếu mình dồn hết làm vào
+
+0:48:15.280,0:48:20.960
+cái này cũng chưa chắc được. Vì mình làm
+lập trình viên mình sẽ hiểu là không
+
+0:48:20.960,0:48:24.960
+phải cứ đông người là sẽ giải quyết được
+nhanh đúng không ạ? Đôi khi tạo thêm vấn
+
+0:48:24.960,0:48:34.520
+đề đấy. So I will tell the member like I
+just said because very clear. So
+
+0:48:34.520,0:48:40.839
+à
+when the option C is very important so
+
+0:48:40.839,0:48:47.680
+we cannot miss up and the we can we
+cannot
+
+0:48:47.680,0:48:54.280
+use all the resour
+team in the option B to make it more
+
+0:48:54.280,0:49:03.359
+faster because
+like as a developer I understand that
+
+0:49:03.359,0:49:09.040
+more people is not
+shorter the
+
+0:49:09.040,0:49:16.280
+the time because maybe cause more
+problem we must communicate and
+
+0:49:16.280,0:49:24.200
+understand each other so
+conflict something else so I think
+
+0:49:24.200,0:49:29.480
+that is my
+myw
+
+0:49:32.599,0:49:37.359
+Đấy. Đấy. Thì vừa rồi là em nói khá là
+nhiều và nó bị dài hơn so với quyết định
+
+0:49:37.359,0:49:42.920
+nhưng mà em nghĩa là nó sẽ khá là rõ
+ràng bởi vì là em đã trình bày trên cả
+
+0:49:42.920,0:49:52.400
+tất cả kiểu khá là rõ rõ đúng không ạ?
+Về và cũng khá là kiểu bài bản. Ờ
+
+0:49:52.400,0:49:57.720
+tuy nhiên nó sẽ đi kèm với em vừa nói cả
+ưu và nhược các thứ rồi đúng không ạ?
+
+0:49:57.720,0:50:03.720
+Và tiếp theo là em nói gì về cái trải
+nghiệm cái thử thách này? Thứ đây là
+
+0:50:03.720,0:50:08.839
+những lần hiếm ho em đã phỏng vấn và đây
+là lần đầu tiên em làm cái bài thử thách
+
+0:50:08.839,0:50:13.040
+thì em thấy rất ấn tượng và rất là hay
+cũng như là
+
+0:50:13.040,0:50:18.000
+nó cho em cảm thấy thêm về năng lực của
+bản thân mình là biết được là ừ mình làm
+
+0:50:18.000,0:50:26.599
+được.
+Và à em tiếp theo là
+
+0:50:27.839,0:50:33.280
+vâng em nghĩ là chỉ thế còn đâu xem.
+
+0:50:34.000,0:50:44.200
+So that is my video explain is
+it's not very short because I do it in
+
+0:50:44.200,0:50:52.599
+language and I
+have show you my thought a lot so
+
+0:50:52.599,0:50:57.799
+it's not just
+just all rec
+
+0:50:57.799,0:51:03.480
+more complicate than that. So I this is
+the first time I do this kind of
+
+0:51:03.480,0:51:08.160
+challenge
+interview. So I think it
+
+0:51:08.160,0:51:15.160
+very very good and I and it help me that
+I know
+
+0:51:15.160,0:51:28.280
+what position I am what level I am. So I
+very happy after this challenge.
+
+0:51:28.480,0:51:34.880
+Ờ tiếp theo em sử dụng như mọi người như
+mọi người có thấy là em đã sử dụng AI
+
+0:51:34.880,0:51:40.240
+trong việc là vừa tóm tắt vừa phân tích
+cũng như là thậm chí cả code luôn. Thì
+
+0:51:40.240,0:51:45.720
+thực tế em làm bây giờ cũng thế nghĩa là
+em sẽ phân tích trước. Em thứ các em
+
+0:51:45.720,0:51:48.520
+nghĩ một lập trình viên là sẽ thế. lập
+trình viên nó không phải là người viết
+
+0:51:48.520,0:51:52.880
+lại những dòng code không phải ngồi gõ
+lại. Đấy giống kiểu thư ký hơn hoặc
+
+0:51:52.880,0:51:57.160
+coder hơn. Developer nó sẽ là nhà phát
+triển tức là người dựa trên những cái gì
+
+0:51:57.160,0:52:01.359
+đã có xong rồi mình sẽ ngồi phân tích để
+mà
+
+0:52:01.359,0:52:06.040
+mình sẽ đưa kế hoạch để làm. Thì gần như
+là bây giờ là lập trình viên giống như
+
+0:52:06.040,0:52:12.319
+một PM hơn và AI sẽ là công cụ để mà
+mình làm. Đương nhiên, đương nhiên là có
+
+0:52:12.319,0:52:17.839
+những cái mình vẫn phải tự code bởi vì
+vì mình phải có những cái button chuẩn
+
+0:52:17.839,0:52:24.520
+để cho ai học theo để mà ai biết được là
+mình dựa theo cái design button nào đấy.
+
+0:52:24.520,0:52:30.400
+Tránh việc là nó tự nghĩa là code rồi
+code cứ loạn hết cả lên và không clean
+
+0:52:30.400,0:52:36.680
+đúng không ạ?
+So I
+
+0:52:36.680,0:52:40.880
+I show you guys
+
+0:52:41.240,0:52:49.839
+à what part that I use AI. So you you
+guys may think that I lot about the
+
+0:52:49.839,0:52:53.799
+summary and
+
+0:52:54.160,0:53:02.880
+coding to because I because I think that
+deeper is not coder. We don't write we
+
+0:53:02.880,0:53:08.599
+don't
+write down the code repe repeatly. We
+
+0:53:08.599,0:53:15.520
+must think first and make plan that we
+must deploy
+
+0:53:15.520,0:53:22.400
+that application already have but in
+some case we must
+
+0:53:22.400,0:53:31.480
+design first and
+must write clean code have
+
+0:53:31.480,0:53:41.839
+button first so AI can
+learn for to à make code à make new code
+
+0:53:41.839,0:53:51.799
+à
+l pattern and make it clear and clean.
+
+0:53:55.440,0:54:01.559
+Cái này là
+gửi lại code đúng không ạ?
+
+0:54:02.079,0:54:11.920
+một cái bài để tổng hợp và code này với
+comment này video này.
+
+0:54:12.280,0:54:18.000
+Ok chắc để em gửi lại cái này. Ok
+
+0:54:20.160,0:54:25.680
+goodbye. And
+hope I can see you guys soon.
+
+0:54:25.680,0:54:27.720
+Yeah.
